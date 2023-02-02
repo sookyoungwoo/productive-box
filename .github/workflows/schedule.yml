@@ -1,4 +1,4 @@
-name: Update gist
+name: sookyoungwoo
 on:
   push:
     branches:
